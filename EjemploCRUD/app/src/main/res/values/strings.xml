@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploCRUD</string>
+
+    <string name="nombre">Nombre: </string>
+    <string name="grado">Grado: </string>
+    <string name="materia">Materias: </string>
+    <string name="guardar">Guardar</string>
+</resources>
